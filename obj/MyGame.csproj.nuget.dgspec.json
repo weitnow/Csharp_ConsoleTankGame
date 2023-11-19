@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/weitnow/Projekte/sadconsole-proj/MySmallGame/MyGame.csproj": {}
+  },
+  "projects": {
+    "/home/weitnow/Projekte/sadconsole-proj/MySmallGame/MyGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/weitnow/Projekte/sadconsole-proj/MySmallGame/MyGame.csproj",
+        "projectName": "MyGame",
+        "projectPath": "/home/weitnow/Projekte/sadconsole-proj/MySmallGame/MyGame.csproj",
+        "packagesPath": "/home/weitnow/.nuget/packages/",
+        "outputPath": "/home/weitnow/Projekte/sadconsole-proj/MySmallGame/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/weitnow/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MonoGame.Framework.DesktopGL": {
+              "target": "Package",
+              "version": "[3.8.1.303, )"
+            },
+            "SadConsole.Host.MonoGame": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.114/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZa8dI2MCQqDn98xY/PqOsruYjV6r4H/PVPkBoI1PcvEbNRGUncoPopdd92RIQL3YZwo5D3/zprJqFjlL5I4uw==",
+  "success": true,
+  "projectFilePath": "/home/weitnow/Projekte/sadconsole-proj/MySmallGame/MyGame.csproj",
+  "expectedPackageFiles": [
+    "/home/weitnow/.nuget/packages/monogame.framework.desktopgl/3.8.1.303/monogame.framework.desktopgl.3.8.1.303.nupkg.sha512",
+    "/home/weitnow/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/weitnow/.nuget/packages/sadconsole/10.0.0/sadconsole.10.0.0.nupkg.sha512",
+    "/home/weitnow/.nuget/packages/sadconsole.host.monogame/10.0.0/sadconsole.host.monogame.10.0.0.nupkg.sha512",
+    "/home/weitnow/.nuget/packages/thesadrogue.primitives/1.6.0-rc3/thesadrogue.primitives.1.6.0-rc3.nupkg.sha512"
+  ],
+  "logs": []
+}
